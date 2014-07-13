@@ -1,2 +1,5 @@
 Cache
 Index
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
