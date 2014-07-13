@@ -1,0 +1,31 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"Package Control",
+		"Theme - Centurion Blue",
+		"Package Control",
+		"Theme - Centurion Blue",
+		"Package Control",
+		"Theme - Centurion Blue",
+		"Colorsublime",
+		"Package Control",
+		"Theme - Centurion Blue",
+		"Colorsublime",
+		"Package Control",
+		"Theme - Centurion Blue",
+		"Colorsublime",
+		"Package Control",
+		"Theme - Centurion Blue",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Package Control",
+		"Theme - Centurion Blue"
+	],
+	"startup_sec": 0.79277,
+	"syntax":
+	{
+		"JSON": 2
+	},
+	"time": 1405014186
+}
